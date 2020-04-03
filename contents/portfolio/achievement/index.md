@@ -18,11 +18,6 @@ image: ./image.jpg
 </p>
 
 
-<h6><u>Senior – Secondary Education</u>:</h6>
-<p>I got first Academic prize in 5th Standard and it was in the form of cash Rs. 500, as I got 1st
-   Position.
-</p>
-
 <h6><u>Games</u>:</h6>
 <p>I got total 6 meddles as the winner of six final badminton matches of my school.
 </p>
