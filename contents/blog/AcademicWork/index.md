@@ -54,5 +54,5 @@ description: Academic Work.
     </p>
 </div>
 <a class="gradient-button gradient-button-1"
- style="margin-left: 25%;width: 50%;padding: 10px;" href="https://drive.google.com/file/d/1O9Mc54a5tKUvuFirTY54ER3FETZH5V_g/view?usp=drivesdk">
+ style="margin-left: 25%;width: 50%;padding: 10px;" href="https://drive.google.com/file/d/1O9Mc54a5tKUvuFirTY54ER3FETZH5V_g/view?usp=drivesdk" target="_blank">
  Read More..</a><br />
